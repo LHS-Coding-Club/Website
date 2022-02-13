@@ -77,7 +77,7 @@ body {
   width: 13vw;
 
 
-  animation: bounce 1s ease-in-out 0.9s infinite alternate;
+  animation: bounce 1s ease-in-out 0.9s infinite alternate;;
 }
 
 #three {
